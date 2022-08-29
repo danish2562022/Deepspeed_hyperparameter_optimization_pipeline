@@ -1,0 +1,9 @@
+{
+    "max_number_of_layers": 5,
+    "model_type" : "c",
+    "min_units_per_layers" : 32,
+    "max_units_per_layers" : 512,
+    "num_of_classes" : 10,
+    "choose_optimizer": "adam"
+
+}
